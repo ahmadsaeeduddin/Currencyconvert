@@ -58,6 +58,12 @@ form input {
   text-align: center;
 }
 
+select {
+  color: #16648b;
+  gap: 1rem;
+  size: 1.5rem;
+}
+
 .dropdown {
   display: flex;
   justify-content: space-between;
